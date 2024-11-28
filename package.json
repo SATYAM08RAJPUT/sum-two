@@ -1,0 +1,15 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "An npm sun Package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run sum"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "satyam rajput",
+  "license": "Apache-2.0"
+}
